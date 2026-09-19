@@ -1,0 +1,15 @@
+# Arduino IDE build files
+build/
+*.hex
+*.elf
+*.bin
+
+# OS metadata files
+.DS_Store
+Thumbs.db
+
+# IDE specific settings
+.vscode/
+.idea/
+*.ino.cpp
+*.ino.o
