@@ -6,6 +6,10 @@ Unlike standard packet-based jammers that leave microsecond gaps between transmi
 
 ---
 
+[![Featured on Hackster.io](https://img.shields.io/badge/Featured%20on-Hackster.io-blue?style=for-the-badge&logo=hackster)](https://www.hackster.io/beratkaraboyunn/jammox-ultra-optimized-nrf24l01-2-4ghz-rf-generator-d95b79)
+
+---
+
 ## 🔥 Key Technical Highlights & Innovations
 
 - **100% Duty Cycle Continuous Unmodulated Carrier (`0x3E` Register Hack):** Disables protocol packet headers and preamble gaps, broadcasting a non-stop raw RF noise wall.
